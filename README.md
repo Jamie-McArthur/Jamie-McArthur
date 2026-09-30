@@ -1,6 +1,6 @@
 ## Jamie McArthur
 
-- MSc Statistics
+- MSc Statistics @ Imperial
 - BSc Mathematics and Statistics
 
 - Hyperlink example: [Example hyperlink](https://www.example.com)
