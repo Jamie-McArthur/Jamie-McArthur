@@ -1,9 +1,9 @@
-## Jamie McArthur
+## Jamie Mrthur
 
 - MSc Statistics
 - BSc Mathematics and Statistics
 
-- Hyperlink example: [text to display](https://www.example.com)
+- Hyperlink example: [text to display](https://www.typo.com)
 <!--
 **Jamie-McArthur/Jamie-McArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
