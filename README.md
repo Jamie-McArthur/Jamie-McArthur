@@ -3,7 +3,7 @@
 - MSc Statistics
 - BSc Mathematics and Statistics
 
-- Hyperlink example: [text to display](https://www.typo.com)
+- Hyperlink example: [typo](https://www.example.com)
 <!--
 **Jamie-McArthur/Jamie-McArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
