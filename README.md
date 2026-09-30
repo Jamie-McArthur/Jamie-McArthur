@@ -1,5 +1,9 @@
-## Hi there 👋
+## Jamie McArthur
 
+- MSc Statistics
+- BSc Mathematics and Statistics
+
+- Hyperlink example: [text to display](https://www.example.com)
 <!--
 **Jamie-McArthur/Jamie-McArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
