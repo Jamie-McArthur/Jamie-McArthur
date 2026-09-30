@@ -1,4 +1,4 @@
-## Jamie Mrthur
+## Jamie McArthur
 
 - MSc Statistics
 - BSc Mathematics and Statistics
