@@ -4,6 +4,7 @@
 - BSc Mathematics and Statistics
 
 - Hyperlink example: [Example hyperlink](https://www.example.com)
+- Making a local change and pushing the commited changes
 <!--
 **Jamie-McArthur/Jamie-McArthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
